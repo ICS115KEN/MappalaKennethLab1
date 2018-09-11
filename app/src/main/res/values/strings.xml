@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MappalaKennethLab1</string>
+    <string name="button">Button</string>
+    <string name="distance_from_ust">Distance from UST:</string>
+    <string name="location">Location:</string>
+    <string name="title">Title</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="distance_from_ust">Distance from UST:</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="title">Title</string>
+    <string name="location">Location:</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="title">Title</string>
+    <string name="location">Location:</string>
+    <string name="distance_from_ust">Distance from UST:</string>
+    <string name="todo">TODO</string>
+</resources>
